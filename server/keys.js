@@ -1,4 +1,4 @@
 module.exports={
     MONGOURI:"",
-    JWT_KEY:"asdfJKL12as34ASD"
+    JWT_KEY:""
 }
